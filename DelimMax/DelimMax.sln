@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32407.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelimMax", "DelimMax.csproj", "{207E6A99-E1DA-429B-903C-BEF9F97A877B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{207E6A99-E1DA-429B-903C-BEF9F97A877B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{207E6A99-E1DA-429B-903C-BEF9F97A877B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{207E6A99-E1DA-429B-903C-BEF9F97A877B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{207E6A99-E1DA-429B-903C-BEF9F97A877B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C415EA8-DB50-4164-AA17-32302BCA68CE}
+	EndGlobalSection
+EndGlobal
